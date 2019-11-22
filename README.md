@@ -14,6 +14,7 @@
 1. server.js --> starting point of Express Application
 2. apiRoutes.js and htmlRoutes ---> router(s)files
 3. friend.js ---> data file(Module)
+4. home.html and survey.html ----> User interface
 
 ### .gitignore
 

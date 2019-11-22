@@ -31,6 +31,23 @@ var friends =
         3
       ]
 
+  },
+  {
+    name:"Mark",
+    photo:"https://png.pngtree.com/png-clipart/20190516/original/pngtree-businessman-cartoon-character-png-image_3713087.jpg",
+    scores:[
+        3,
+        2,
+        3,
+        3,
+        2,
+        5,
+        2,
+        5,
+        2,
+        3
+      ]
+
   }]
 
   exports.list = function(req,res){
